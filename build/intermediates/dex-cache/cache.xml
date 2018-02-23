@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ad\.gradle\caches\modules-2\files-2.1\org.eclipse.paho\org.eclipse.paho.android.service\1.1.1\6c3c5ef8f5f205def0f725b6c0f57217c8fb9ff5\org.eclipse.paho.android.service-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6c3c5ef8f5f205def0f725b6c0f57217c8fb9ff5">
+        <dex dex="D:\studioworkplace\IM\app\build\intermediates\pre-dexed\debug\org.eclipse.paho.android.service-1.1.1_00ee5e4919cdb1047fbf7400f19845b6509efc4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ad\.gradle\caches\modules-2\files-2.1\org.eclipse.paho\org.eclipse.paho.client.mqttv3\1.1.0\89d827ffa47c241f2627421ef1d6c7a8c207a341\org.eclipse.paho.client.mqttv3-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="89d827ffa47c241f2627421ef1d6c7a8c207a341">
+        <dex dex="D:\studioworkplace\IM\app\build\intermediates\pre-dexed\debug\org.eclipse.paho.client.mqttv3-1.1.0_806ad1eef5b2a8cee507b16ef04d444aa96138b9.jar" />
+    </item>
+
+</items>
