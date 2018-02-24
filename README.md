@@ -4,6 +4,7 @@
 MQTT的原理我们就不用说了吧，相信大家都百度过了，下面我们来具体看看怎么实现：<br>
 
 ![闪电侠](https://github.com/FlashQin/MySendGift/blob/master/device-2018-02-23-173343.mp4)
+![闪电侠](https://github.com/FlashQin/MySendGift/blob/master/device-2018-02-24-100530.png)
 
 这是连接MQTT服务器，获取推送的消息，然后将获取到的消息，根据我们自己的需求自己处理<br>
 //这是开始连接的方法<br>
